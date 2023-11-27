@@ -15,7 +15,7 @@
 //https://stackoverflow.com/questions/71974453/visual-studio-express-2017-output-not-displaying-for-stroke-text-function
 //https://youtu.be/Wzykvg7t9l8?si=i974zdJn2Q8tdjX3
 
-//Raghad_alsebayyil,
+//Raghad_alsebayyil,Yusra Zain,Sara Abdulmalek,Shooq Authaynani,Doha Alhazmi
 
 using namespace std;
 
