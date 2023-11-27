@@ -15,6 +15,8 @@
 //https://stackoverflow.com/questions/71974453/visual-studio-express-2017-output-not-displaying-for-stroke-text-function
 //https://youtu.be/Wzykvg7t9l8?si=i974zdJn2Q8tdjX3
 
+//Raghad_alsebayyil,
+
 using namespace std;
 
 GLint win_width = 550,
@@ -4231,7 +4233,7 @@ void Scene13FinalRW() {
 
 	glColor3f(0.2f, 0.2f, 0.2f);
 	std::string text2;
-	text2 = " Bon appétit";
+	text2 = " Bon appÃ©tit";
 	drawStrokeText3(text2.data(), text2.size(), 230, 450);
 
 }
@@ -4276,7 +4278,7 @@ void Scene13FinalCB() {
 
 	glColor3f(0.2f, 0.2f, 0.2f);
 	std::string text2;
-	text2 = " Bon appétit";
+	text2 = " Bon appÃ©tit";
 	drawStrokeText3(text2.data(), text2.size(), 230, 450);
 }
 void Scene13FinalRB() {
@@ -4325,7 +4327,7 @@ void Scene13FinalRB() {
 
 	glColor3f(0.2f, 0.2f, 0.2f);
 	std::string text2;
-	text2 = " Bon appétit..";
+	text2 = " Bon appÃ©tit..";
 	drawStrokeText3(text2.data(), text2.size(), 230, 450);
 
 }
@@ -4370,7 +4372,7 @@ void Scene13FinalCW() {
 
 	glColor3f(0.2f, 0.2f, 0.2f);
 	std::string text2;
-	text2 = " Bon appétit..";
+	text2 = " Bon appÃ©tit..";
 	drawStrokeText3(text2.data(), text2.size(), 230, 450);
 
 }
